@@ -2,7 +2,7 @@
 
 I'm Nazrul Irfanradi, a self-taught data analyst from Malaysia.
 
-### ✨ About Me in 1 minute ✨
+### ✨ About Me ✨
 - 👩🏻‍💻 Accountanting graduate turned data analyst
 - 📊 Transition to data since **August 2022**
 - 📝 Taught myself SQL, Python and Power BI
