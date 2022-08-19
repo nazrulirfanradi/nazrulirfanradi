@@ -24,4 +24,4 @@ I'm Nazrul Irfanradi, a self-taught data analyst from Malaysia.
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nazrulirfanradi/)
 - [Medium](https://nazrulirfanradi.medium.com)
-- [Kaggle](https://www.kaggle.com/nazrulirfanradi)
+- [Kaggle](https://medium.com/@nazrulirfanradi)
