@@ -12,7 +12,7 @@ I'm Nazrul Irfanradi, a self-taught data analyst from Malaysia.
 - Want to learn Data Analytics, but not sure where to start? Click **[HERE](https://github.com/nazrulirfanradi/Where-to-Learn-Data-Analytics)**
 
 ### 💡 Core Competencies 💡
-- Tools: SQL, Python, Power BI
+- Tools: Excel, SQL, SAP, Python, Power BI
 - Skills: Data Cleaning, Web Scrapping, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 ### ⚡️ Currently ⚡️
